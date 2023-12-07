@@ -3,8 +3,9 @@
 ### Data structure
 ```
 {
-  "poolName": "Example Pool",
-  "poolTicker": "EXPL",
+  "poolName": "pool name",
+  "poolTicker": "ticker",
+  "Website": "https://yourwebsite.com",
   "socialLinks": {
     "twitter": "https://twitter.com/examplepool",
     "telegram": "https://t.me/examplepool",
