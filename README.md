@@ -6,7 +6,7 @@ Follow these steps to submit your pool for promotion on our platform:
 2. In the top-right corner of the page, click the "Fork" button.
 3. This will create a copy of the repository in your own GitHub account.
 
-## Step 2: Update the promo.json File
+## Step 2: Update the Request_promo File
 1. Navigate to the promo.json file in your forked repository.
 2. Click on the file to open it, then click on the pencil icon (Edit) in the upper right corner to edit the file.
 3. Replace the existing content with your pool's information using the JSON format provided below:
