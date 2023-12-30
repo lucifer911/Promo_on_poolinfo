@@ -1,11 +1,11 @@
 {
-  "poolName": "Enigma",
-  "poolTicker": "one",
-  "Website": "https://red-sky.one",
+  "poolName": "Joker",
+  "poolTicker": "JOKER",
+  "Website": "https://jokerpool.com/",
   "socialLinks": {
-    "twitter": "https://twitter.com/EnigmA_SPO",
-    "telegram": "https://t.me/EnigmApool",
-    "discord": "https://discord.gg/trhq94BMcE"
+    "twitter": "https://twitter.com/JokerPool_ADA",
+    "telegram": "https://t.co/mgoxRgfHMj",
+    "discord": "https://jokerpool.com/"
   },
-  "description": "SpoYellowPages.com | Poolinfo.me | retire.poolinfo.me | stake-2-wallet.poolinfo.me | Building for Cardano Community."
+  "description": "Only Bare-Metal servers, In 2 different geographical locations, Multi-layered security, Emergency power source for each server node, Dedicated pool operator, Server monitoring 24/7"
 }
