@@ -2,9 +2,8 @@
 Follow these steps to submit your pool for promotion on our platform:
 
 ## Step 1: Fork the Repository
-1. Visit the GitHub repository URL (provide the link to your GitHub repo here).
-2. In the top-right corner of the page, click the "Fork" button.
-3. This will create a copy of the repository in your own GitHub account.
+1. In the top-right corner of the page, click the "Fork" button.
+2. This will create a copy of the repository in your own GitHub account.
 
 ## Step 2: Update the Request_promo File
 1. Navigate to the promo.json file in your forked repository.
